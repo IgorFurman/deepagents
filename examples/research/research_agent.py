@@ -127,7 +127,7 @@ Make sure that your sections are cohesive, and make sense for the reader.
 For each section of the report, do the following:
 - Use simple, clear language
 - Use ## for section title (Markdown format) for each section of the report
-- Do NOT ever refer to yourself as the writer of the report. This should be a professional report without any self-referential language. 
+- Do NOT ever refer to yourself as the writer of the report. This should be a professional report without any self-referential language.
 - Do not say what you are doing in the report. Just write the report without any commentary from yourself.
 - Each section should be as long as necessary to deeply answer the question with the information you have gathered. It is expected that sections will be fairly long and verbose. You are writing a deep research report, and users will expect a thorough answer.
 - Use bullet points to list out information when appropriate, but by default, write in paragraph form.
